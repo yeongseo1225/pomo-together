@@ -1,8 +1,8 @@
 # 🍅 Pomo-Together (함께하는 뽀모도로)
 
-> **"야, 너 언제 쉬어?" 이제 묻지 말고 '동기화' 하세요!**
-
 ![제목 없는 디자인](https://github.com/user-attachments/assets/554fa367-40ad-4139-a3a9-ab22b7dfeed1)
+
+> **"야, 너 언제 쉬어?" 이제 묻지 말고 '동기화' 하세요!**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
