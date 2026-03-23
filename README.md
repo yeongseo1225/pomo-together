@@ -29,6 +29,3 @@
 ## AI-Driven Development
 
 이 프로젝트는 기획부터 로직 구현, 배포까지의 전 과정에서 AI(gemini-cli)를 적극 활용하여 개발 효율을 극대화했습니다.
-
-## 배포 링크
-https://pomo-together.vercel.app/
